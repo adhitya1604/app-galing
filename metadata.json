@@ -1,0 +1,6 @@
+{
+  "name": "Duo Galing",
+  "description": "Aplikasi mobile ekspedisi paket modern dengan OCR scanner cepat untuk mencatat resi, penerima, dan alamat kurir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
